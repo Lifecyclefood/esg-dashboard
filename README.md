@@ -202,7 +202,7 @@ To stop the dashboard, press `Ctrl + C` in the terminal.
 **Bhakti Niwane** — Sustainability Manager & ESG Analyst  
 📧 bhaktin9@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/bhakti-niwane-a96199112/)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+🐙 [GitHub](https://github.com/esgpathfinder)
 
 ---
 
