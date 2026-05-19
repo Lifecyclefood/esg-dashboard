@@ -199,9 +199,9 @@ To stop the dashboard, press `Ctrl + C` in the terminal.
 
 ## 👤 Author
 
-**[Your Name]** — Sustainability Manager & ESG Analyst  
-📧 your.email@company.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+**Bhakti Niwane** — Sustainability Manager & ESG Analyst  
+📧 bhaktin9@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/bhakti-niwane-a96199112/)  
 🐙 [GitHub](https://github.com/YOUR_USERNAME)
 
 ---
