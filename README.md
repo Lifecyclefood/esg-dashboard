@@ -31,7 +31,7 @@
 
 This dashboard was built from the perspective of a **Sustainability Manager** needing to communicate complex ESG data clearly to C-suite executives, boards, and external stakeholders.
 
-It consolidates greenhouse gas (GHG) emissions data — Scope 1, 2, and 3 — into a clean, interactive executive report aligned with **GHG Protocol standards**. Instead of static PowerPoint slides, this delivers a **live, filterable, downloadable** analytics experience.
+It consolidates greenhouse gas (GHG) emissions data for Scope 1, 2, and 3 into a clean, interactive executive report aligned with the GHG Protocol standards. Instead of static PowerPoint slides, this delivers a **live, filterable, downloadable** analytics experience.
 
 **Who is this for?**
 - Sustainability / ESG Managers
@@ -47,14 +47,14 @@ It consolidates greenhouse gas (GHG) emissions data — Scope 1, 2, and 3 — in
 </p>
 ## Key Features
 
-- **4 Executive KPI Cards** — Total CO₂, Average Emissions, Year-over-Year % Change, Net Zero Target status
-- **Yearly Emissions Trend** — Area chart showing multi-year CO₂ trajectory
-- **Regional Emissions Breakdown** — Bar chart by geography
-- **Monthly CO₂ Pattern** — Seasonality analysis across 12 months
-- **Scope 1 / 2 / 3 Stacked Bar** — GHG Protocol scope decomposition by year
-- **Regional Intensity Treemap** — Visual share of emissions by region
-- **Interactive Sidebar Filters** — Filter by region and year range
-- **Download Button** — Export filtered data as CSV
+- **4 Executive KPI Cards** - Total CO₂, Average Emissions, Year-over-Year % Change, Net Zero Target status
+- **Yearly Emissions Trend** - Area chart showing multi-year CO₂ trajectory
+- **Regional Emissions Breakdown** - Bar chart by geography
+- **Monthly CO₂ Pattern** - Seasonality analysis across 12 months
+- **Scope 1 / 2 / 3 Stacked Bar** - GHG Protocol scope decomposition by year
+- **Regional Intensity Treemap** - Visual share of emissions by region
+- **Interactive Sidebar Filters** - Filter by region and year range
+- **Download Button** - Export filtered data as CSV
 
 ---
 
@@ -68,8 +68,8 @@ It consolidates greenhouse gas (GHG) emissions data — Scope 1, 2, and 3 — in
 | **Net Zero Target Year** | Milestone tracking | Strategic alignment for stakeholders |
 | **Scope 1** | Direct emissions (company-owned sources) | Regulatory reporting, direct control |
 | **Scope 2** | Indirect from purchased energy | Energy procurement decisions |
-| **Scope 3** | Value chain (suppliers, logistics, end use) | Largest share — hardest to reduce |
-| **Regional Share** | Treemap of emissions by geography | Identifies highest-impact regions |
+| **Scope 3** | Value chain (suppliers, logistics, end use) | Largest share - hardest to reduce |
+| **Regional Share** | Treemap of emissions by geography | Identifies highest impact regions |
 | **Monthly Seasonality** | Monthly CO₂ pattern | Operations & seasonal planning |
 
 ---
