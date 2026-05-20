@@ -41,7 +41,9 @@ It consolidates greenhouse gas (GHG) emissions data — Scope 1, 2, and 3 — in
 
 ---
 ## Live Demo Screenshot
-![ESG Dashboard](dashboard1.png)
+<p align="center">
+  <img src="dashboard1.png" width="850"/>
+</p>
 ## Key Features
 
 - **4 Executive KPI Cards** — Total CO₂, Average Emissions, Year-over-Year % Change, Net Zero Target status
