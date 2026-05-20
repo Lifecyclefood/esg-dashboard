@@ -1,4 +1,4 @@
-# 🌍 ESG Executive Reporting Dashboard
+# ESG Executive Reporting Dashboard
 
 > A Streamlit-powered sustainability analytics dashboard built for executive leadership and stakeholder presentations — tracking CO₂ emissions across Scope 1, 2, and 3 with regional and monthly breakdowns.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Live Demo Screenshot](#-live-demo-screenshot)
@@ -27,7 +27,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This dashboard was built from the perspective of a **Sustainability Manager** needing to communicate complex ESG data clearly to C-suite executives, boards, and external stakeholders.
 
@@ -41,7 +41,7 @@ It consolidates greenhouse gas (GHG) emissions data — Scope 1, 2, and 3 — in
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **4 Executive KPI Cards** — Total CO₂, Average Emissions, Year-over-Year % Change, Net Zero Target status
 - **Yearly Emissions Trend** — Area chart showing multi-year CO₂ trajectory
@@ -55,7 +55,7 @@ It consolidates greenhouse gas (GHG) emissions data — Scope 1, 2, and 3 — in
 
 ---
 
-## 📊 Dashboard KPIs
+## Dashboard KPIs
 
 | KPI | Description | Why It Matters |
 |-----|-------------|----------------|
@@ -71,7 +71,7 @@ It consolidates greenhouse gas (GHG) emissions data — Scope 1, 2, and 3 — in
 
 ---
 
-## 📁 Data File & Column Guide
+## Data File & Column Guide
 
 The dashboard reads from a file called **`emissions_data.csv`** placed in the **same folder** as `esg_dashboard.py`.
 
@@ -102,7 +102,7 @@ Year,Month,Region,Total_CO2,Scope1_CO2,Scope2_CO2,Scope3_CO2
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 esg-dashboard/
@@ -115,7 +115,7 @@ esg-dashboard/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -147,7 +147,7 @@ Replace `emissions_data.csv` with your own data file, keeping the same column na
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 streamlit run esg_dashboard.py
@@ -164,7 +164,7 @@ To stop the dashboard, press `Ctrl + C` in the terminal
 Note: The dashboard is set up for local execution. A deployed version can be made available for external access if needed.
 ---
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 | Problem | Solution |
 |---|---|
@@ -176,7 +176,7 @@ Note: The dashboard is set up for local execution. A deployed version can be mad
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -187,7 +187,7 @@ Note: The dashboard is set up for local execution. A deployed version can be mad
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Add intensity metrics (CO₂ per revenue, per employee)
 - [ ] Connect to live database / Google Sheets
@@ -198,7 +198,7 @@ Note: The dashboard is set up for local execution. A deployed version can be mad
 
 ---
 
-## 👤 Author
+## Author
 
 **Bhakti Niwane** — Sustainability & ESG Expert
 📧 bhaktin9@gmail.com
