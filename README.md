@@ -55,7 +55,6 @@ It consolidates greenhouse gas (GHG) emissions data — Scope 1, 2, and 3 — in
 - **Regional Intensity Treemap** — Visual share of emissions by region
 - **Interactive Sidebar Filters** — Filter by region and year range
 - **Download Button** — Export filtered data as CSV
-- **Dark Executive Theme** — Polished UI suitable for boardroom presentation
 
 ---
 
