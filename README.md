@@ -1,6 +1,6 @@
 # ESG Executive Reporting Dashboard
 
-> A Streamlit-powered sustainability analytics dashboard built for executive leadership and stakeholder presentations — tracking CO₂ emissions across Scope 1, 2, and 3 with regional and monthly breakdowns.
+> A Streamlit-powered sustainability analytics dashboard built for executive leadership and stakeholder presentations - tracking CO₂ emissions across Scope 1, 2, and 3 with regional and monthly breakdowns.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red?logo=streamlit)
@@ -29,7 +29,7 @@
 
 ## Overview
 
-This dashboard was built from the perspective of a **Sustainability Manager** needing to communicate complex ESG data clearly to C-suite executives, boards, and external stakeholders.
+This dashboard was built from the perspective of a **Sustainability Manager** needing to communicate complex ESG data clearly to C-suite executives, boards, internal and external stakeholders, for cross-functional collaboration.
 
 It consolidates greenhouse gas (GHG) emissions data for Scope 1, 2, and 3 into a clean, interactive executive report aligned with the GHG Protocol standards. Instead of static PowerPoint slides, this delivers a **live, filterable, downloadable** analytics experience.
 
