@@ -38,6 +38,7 @@ It consolidates greenhouse gas (GHG) emissions data for Scope 1, 2, and 3 into a
 - CEOs, CFOs, and Board Members
 - ESG Analysts and Consultants
 - Investor Relations & Stakeholder Reporting Teams
+- Students, Interns, Working Students for learning processes
 
 ---
 ## Live Demo Screenshot
