@@ -159,8 +159,8 @@ Your browser will open automatically at:
 http://localhost:8501
 ```
 
-To stop the dashboard, press `Ctrl + C` in the terminal.
-Note: The dashboard currently runs in a local environment. A hosted version can be added for external access.
+To stop the dashboard, press `Ctrl + C` in the terminal.|
+Note: The dashboard is set up for local execution. A deployed version can be made available for external access if needed.
 ---
 
 ## 🛠️ Troubleshooting
