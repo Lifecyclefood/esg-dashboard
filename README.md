@@ -43,6 +43,7 @@ It consolidates greenhouse gas (GHG) emissions data — Scope 1, 2, and 3 — in
 ## Live Demo Screenshot
 <p align="center">
   <img src="dashboard1.png" width="850"/>
+  <img src="dashboard2.png" width="850"/>
 </p>
 ## Key Features
 
